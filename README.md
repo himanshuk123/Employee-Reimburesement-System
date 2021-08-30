@@ -1,0 +1,24 @@
+# revature--project1
+
+Hello, Everyone I am Himanshu Kirme , 
+	Here you will get to know some key information about this application.
+This application's name is expense reimbursement system. (ERS). 
+In this application any employee of certain organization can be able to
+apply for any type of reimbursement whichever he wants from his company , 
+and the request which he/she would submit will be directed to Manager of that
+company and the manager will then decide to grant reimbursement to the employee or not.
+ 
+****** The Technologies which are used in this application are ******
+• Java 1.8
+• Servlets
+• Hibernate
+• MySQL
+• HTML/CSS
+• Bootstrap
+• JUnit
+• Log4j
+
+Tools Used Are :
+• Vs code for frontend development
+• Springtoolsuite for backend development
+• Mysql workbench/ command line
