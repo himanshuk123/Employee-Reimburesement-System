@@ -3,7 +3,7 @@
 
 # Project Description
 Hello, Everyone I am Himanshu Kirme , 
-	Here you will get to know some key information about this application.
+Here you will get to know some key information about this application.
 This application's name is expense reimbursement system. (ERS). 
 In this application any employee of certain organization can be able to
 apply for any type of reimbursement whichever he wants from his company , 
