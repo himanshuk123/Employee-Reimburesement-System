@@ -10,7 +10,7 @@ apply for any type of reimbursement whichever he wants from his company ,
 and the request which he/she would submit will be directed to Manager of that
 company and the manager will then decide to grant reimbursement to the employee or not.
  
-****** The Technologies which are used in this application are ******
+# Technologies Used
 • Java 1.8
 • Servlets
 • Hibernate
@@ -20,7 +20,7 @@ company and the manager will then decide to grant reimbursement to the employee 
 • JUnit
 • Log4j
 
-Tools Used Are :
+# Tools used
 • Vs code for frontend development
 • Springtoolsuite for backend development
 • Mysql workbench/ command line
