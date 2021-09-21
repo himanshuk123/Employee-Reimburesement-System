@@ -24,3 +24,20 @@ company and the manager will then decide to grant reimbursement to the employee 
 • Vs code for frontend development
 • Springtoolsuite for backend development
 • Mysql workbench/ command line
+
+# features
+-> Resposive design of frontend.
+-> Useful for people.
+-> Latest technologies used.
+-> Naming convention has been followed.
+
+#getting Started
+• To run this project you must have java installed in your system.
+• First clone this project and import it into your IDE.
+•  Configure the hibernate.cfg.xml file according to your database credentials.
+
+#Usage 
+• Useful for the employee based organisation.
+• A transparent approach  between employee and higher authorities.
+
+
