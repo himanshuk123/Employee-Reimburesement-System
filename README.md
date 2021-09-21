@@ -36,7 +36,7 @@ company and the manager will then decide to grant reimbursement to the employee 
 • First clone this project and import it into your IDE.
 •  Configure the hibernate.cfg.xml file according to your database credentials.
 
-#Usage 
+# Usage 
 • Useful for the employee based organisation.
 • A transparent approach  between employee and higher authorities.
 
