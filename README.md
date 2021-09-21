@@ -31,7 +31,7 @@ company and the manager will then decide to grant reimbursement to the employee 
 -> Latest technologies used.
 -> Naming convention has been followed.
 
-#getting Started
+# getting Started
 • To run this project you must have java installed in your system.
 • First clone this project and import it into your IDE.
 •  Configure the hibernate.cfg.xml file according to your database credentials.
