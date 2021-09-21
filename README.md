@@ -1,5 +1,7 @@
-# revature--project1
+# Expense Reimbursement System
 
+
+# Project Description
 Hello, Everyone I am Himanshu Kirme , 
 	Here you will get to know some key information about this application.
 This application's name is expense reimbursement system. (ERS). 
